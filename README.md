@@ -1,5 +1,8 @@
 # NghPages
 
+## Deployment Info
+[angular-cli-ghpages](https://www.npmjs.com/package/angular-cli-ghpages)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
 ## Development server
